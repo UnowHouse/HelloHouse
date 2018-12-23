@@ -54,7 +54,7 @@ Java文件叫做Annotation，用`@interface`表示。
 
 @Documented
 
-###1.1.6.驻俄界可以被继承
+###1.1.6.注解可以被继承
 
 @Inherited
 
